@@ -1,5 +1,9 @@
 # 💫 About Me:
-🔭 I’m currently working on python libraries<br>🌱 I’m currently learning JAVA<br>💬 Ask me about cybersecurity<br>⚡ Fun fact  Phishing is the most common type of cybercrime
+🔭 I’m currently learning to code and exploring computer memory.<br>
+🌱 I’m passionate about cybersecurity and pentesting in my free time.<br>
+💬 Ask me about cybersecurity or computer memory.<br>
+⚡ Fun fact: Phishing is the most common type of cybercrime.
+
 
 
 ## 🌐 Socials:
